@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-27T09:08:01 IST" name="Default suite" finished-at="2023-04-27T09:08:05 IST" duration-ms="4048">
+  <suite started-at="2023-05-07T13:16:50 IST" name="Default suite" finished-at="2023-05-07T13:16:52 IST" duration-ms="2430">
     <groups>
     </groups>
-    <test started-at="2023-04-27T09:08:01 IST" name="Default test" finished-at="2023-04-27T09:08:05 IST" duration-ms="4048">
-      <class name="Test_RestAPI.GetPostExamples">
-        <test-method signature="PostRequest()[pri:0, instance:Test_RestAPI.GetPostExamples@31304f14]" started-at="2023-04-27T09:08:01 IST" name="PostRequest" finished-at="2023-04-27T09:08:05 IST" duration-ms="3986" status="PASS">
+    <test started-at="2023-05-07T13:16:50 IST" name="Default test" finished-at="2023-05-07T13:16:52 IST" duration-ms="2430">
+      <class name="PawanKumar.Ways_to_create_request_PayLoad">
+        <test-method signature="DeleteData()[pri:2, instance:PawanKumar.Ways_to_create_request_PayLoad@59474f18]" started-at="2023-05-07T13:16:50 IST" name="DeleteData" finished-at="2023-05-07T13:16:52 IST" duration-ms="2368" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- PostRequest -->
-      </class> <!-- Test_RestAPI.GetPostExamples -->
+        </test-method> <!-- DeleteData -->
+      </class> <!-- PawanKumar.Ways_to_create_request_PayLoad -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

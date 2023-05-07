@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test_RestAPI.GetPostExamples">
+      <class name="PawanKumar.Ways_to_create_request_PayLoad">
         <methods>
-          <include name="PostRequest"/>
+          <include name="DeleteData"/>
         </methods>
-      </class> <!-- Test_RestAPI.GetPostExamples -->
+      </class> <!-- PawanKumar.Ways_to_create_request_PayLoad -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
