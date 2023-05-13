@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-05-07T13:16:50 IST" name="Default suite" finished-at="2023-05-07T13:16:52 IST" duration-ms="2430">
+  <suite started-at="2023-05-13T18:20:41 IST" name="Default suite" finished-at="2023-05-13T18:20:43 IST" duration-ms="2658">
     <groups>
     </groups>
-    <test started-at="2023-05-07T13:16:50 IST" name="Default test" finished-at="2023-05-07T13:16:52 IST" duration-ms="2430">
-      <class name="PawanKumar.Ways_to_create_request_PayLoad">
-        <test-method signature="DeleteData()[pri:2, instance:PawanKumar.Ways_to_create_request_PayLoad@59474f18]" started-at="2023-05-07T13:16:50 IST" name="DeleteData" finished-at="2023-05-07T13:16:52 IST" duration-ms="2368" status="PASS">
+    <test started-at="2023-05-13T18:20:41 IST" name="Default test" finished-at="2023-05-13T18:20:43 IST" duration-ms="2658">
+      <class name="PawanKumar.Parsing_JSON_Response">
+        <test-method signature="JSON_Respose_DATA()[pri:2, instance:PawanKumar.Parsing_JSON_Response@3e694b3f]" started-at="2023-05-13T18:20:41 IST" name="JSON_Respose_DATA" finished-at="2023-05-13T18:20:43 IST" duration-ms="2553" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- DeleteData -->
-      </class> <!-- PawanKumar.Ways_to_create_request_PayLoad -->
+        </test-method> <!-- JSON_Respose_DATA -->
+      </class> <!-- PawanKumar.Parsing_JSON_Response -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
